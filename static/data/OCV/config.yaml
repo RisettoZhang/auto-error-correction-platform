@@ -1,0 +1,17 @@
+description: OCV result analysis
+images:
+- /static/data/OCV/0_before_delta.jpg
+- /static/data/OCV/2_adc.jpg
+- /static/data/OCV/test_0.jpg
+- /static/data/OCV/test_1.jpg
+- /static/data/OCV/test_2.jpg
+- /static/data/OCV/test_3.jpg
+- /static/data/OCV/test_4.jpg
+- /static/data/OCV/test_5.jpg
+- /static/data/OCV/test_6.jpg
+- /static/data/OCV/test_7.jpg
+- /static/data/OCV/test_8.jpg
+notes:
+- Before Delta Plot. The x-axis is the original MD OCV value, and the y-axis is the
+  experimental OCV value.
+- Auto Delta Correction Plot

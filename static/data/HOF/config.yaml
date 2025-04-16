@@ -1,0 +1,9 @@
+description: HOF result analysis
+images:
+- /static/data/HOF/0_before_delta.jpg
+- /static/data/HOF/2_adc.png
+
+notes:
+- Before Delta Plot. The x-axis is the original MD OCV value, and the y-axis is the
+  experimental OCV value.
+- Auto Delta Correction Plot
